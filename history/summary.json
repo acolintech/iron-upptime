@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1796,
-    "timeDay": 2017,
-    "timeWeek": 2052,
-    "timeMonth": 2051,
+    "time": 1795,
+    "timeDay": 1573,
+    "timeWeek": 1945,
+    "timeMonth": 2034,
     "timeYear": 1804,
     "dailyMinutesDown": {
       "2021-12-04": 29,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 375,
-    "timeWeek": 159,
-    "timeMonth": 103,
-    "timeYear": 95,
+    "time": 94,
+    "timeDay": 331,
+    "timeWeek": 196,
+    "timeMonth": 111,
+    "timeYear": 96,
     "dailyMinutesDown": {
       "2021-09-12": 16
     }
@@ -57,8 +57,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 109,
-    "timeWeek": 176,
+    "timeDay": 246,
+    "timeWeek": 188,
     "timeMonth": 209,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -71,15 +71,15 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 328,
-    "timeDay": 236,
-    "timeWeek": 259,
-    "timeMonth": 284,
+    "timeDay": 255,
+    "timeWeek": 261,
+    "timeMonth": 286,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2022-02-10": 17,
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 71,
-    "timeWeek": 34,
-    "timeMonth": 24,
+    "timeDay": 66,
+    "timeWeek": 41,
+    "timeMonth": 26,
     "timeYear": 31,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "26.39%",
+    "uptime": "26.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-20": 56,
+      "2022-02-21": 50,
+      "2022-02-20": 1440,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
@@ -504,8 +505,7 @@
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1440,
-      "2021-02-22": 1440,
-      "2021-02-21": 1440
+      "2021-02-22": 1440
     }
   }
 ]
