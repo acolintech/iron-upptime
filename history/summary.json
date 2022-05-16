@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
-    "time": 1819,
-    "timeDay": 1342,
-    "timeWeek": 1815,
-    "timeMonth": 1826,
-    "timeYear": 1864,
+    "time": 1818,
+    "timeDay": 2199,
+    "timeWeek": 1810,
+    "timeMonth": 1835,
+    "timeYear": 1865,
     "dailyMinutesDown": {
       "2022-04-27": 22,
       "2022-02-21": 90,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 44,
-    "timeWeek": 76,
+    "timeDay": 129,
+    "timeWeek": 82,
     "timeMonth": 92,
-    "timeYear": 100,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2021-09-12": 16
     }
@@ -58,8 +58,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 214,
-    "timeWeek": 148,
+    "timeDay": 184,
+    "timeWeek": 156,
     "timeMonth": 180,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 352,
-    "timeWeek": 261,
-    "timeMonth": 247,
+    "timeDay": 279,
+    "timeWeek": 282,
+    "timeMonth": 248,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-02-10": 17,
@@ -117,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 7,
-    "timeWeek": 17,
+    "timeDay": 29,
+    "timeWeek": 18,
     "timeMonth": 50,
     "timeYear": 33,
     "dailyMinutesDown": {}
@@ -129,7 +129,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.94%",
+    "uptime": "22.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -140,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-15": 85,
+      "2022-05-16": 74,
+      "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -503,8 +504,7 @@
       "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
-      "2021-05-17": 1440,
-      "2021-05-16": 1440
+      "2021-05-17": 1440
     }
   }
 ]
