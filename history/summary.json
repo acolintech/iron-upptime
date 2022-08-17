@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1850,
-    "timeDay": 1665,
-    "timeWeek": 1783,
-    "timeMonth": 1774,
-    "timeYear": 1887,
+    "time": 1851,
+    "timeDay": 2269,
+    "timeWeek": 1780,
+    "timeMonth": 1776,
+    "timeYear": 1889,
     "dailyMinutesDown": {
       "2022-04-27": 22,
       "2022-02-21": 90,
@@ -38,7 +38,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 62,
+    "timeDay": 81,
     "timeWeek": 76,
     "timeMonth": 107,
     "timeYear": 103,
@@ -58,13 +58,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 179,
-    "timeWeek": 175,
-    "timeMonth": 242,
+    "timeDay": 173,
+    "timeWeek": 183,
+    "timeMonth": 241,
     "timeYear": 216,
-    "dailyMinutesDown": {
-      "2021-08-17": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -78,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 291,
-    "timeDay": 406,
-    "timeWeek": 339,
-    "timeMonth": 341,
-    "timeYear": 278,
+    "timeDay": 104,
+    "timeWeek": 327,
+    "timeMonth": 339,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-07-08": 498,
       "2022-02-10": 17,
@@ -118,7 +116,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 11,
+    "timeDay": 20,
     "timeWeek": 16,
     "timeMonth": 24,
     "timeYear": 32,
@@ -130,7 +128,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.04%",
+    "uptime": "20.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-16": 100,
+      "2022-08-17": 106,
+      "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
@@ -504,8 +503,7 @@
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
-      "2021-08-18": 1440,
-      "2021-08-17": 1440
+      "2021-08-18": 1440
     }
   }
 ]
