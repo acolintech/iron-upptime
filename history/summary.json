@@ -4,7 +4,7 @@
     "url": "https://rcontrol.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/rcontrol.com.mx.ico",
     "slug": "iron",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.75%",
@@ -16,6 +16,7 @@
     "timeMonth": 1947,
     "timeYear": 1899,
     "dailyMinutesDown": {
+      "2022-12-09": 0,
       "2022-12-08": 25,
       "2022-04-27": 22,
       "2022-02-21": 90
@@ -131,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-09": 67,
+      "2022-12-09": 183,
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
