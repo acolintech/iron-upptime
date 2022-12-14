@@ -10,11 +10,11 @@
     "uptimeWeek": "88.81%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.76%",
-    "time": 1884,
-    "timeDay": 1223,
-    "timeWeek": 1391,
-    "timeMonth": 1807,
-    "timeYear": 1885,
+    "time": 1882,
+    "timeDay": 957,
+    "timeWeek": 1379,
+    "timeMonth": 1765,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2022-12-10": 996,
       "2022-12-09": 107,
@@ -35,7 +35,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 82,
+    "timeDay": 69,
     "timeWeek": 65,
     "timeMonth": 89,
     "timeYear": 99,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 135,
+    "time": 217,
+    "timeDay": 238,
     "timeWeek": 279,
-    "timeMonth": 223,
+    "timeMonth": 230,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 284,
-    "timeDay": 280,
+    "time": 285,
+    "timeDay": 424,
     "timeWeek": 430,
-    "timeMonth": 343,
+    "timeMonth": 354,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2022-07-08": 498,
@@ -110,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 18,
-    "timeWeek": 12,
+    "timeDay": 14,
+    "timeWeek": 13,
     "timeMonth": 20,
     "timeYear": 27,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "17.25%",
+    "uptime": "17.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -133,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-13": 71,
+      "2022-12-14": 66,
+      "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
@@ -496,8 +497,7 @@
       "2021-12-18": 1440,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
-      "2021-12-15": 1440,
-      "2021-12-14": 1440
+      "2021-12-15": 1440
     }
   }
 ]
