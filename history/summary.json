@@ -10,10 +10,10 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.76%",
-    "time": 1863,
-    "timeDay": 926,
-    "timeWeek": 1165,
-    "timeMonth": 1471,
+    "time": 1861,
+    "timeDay": 941,
+    "timeWeek": 1161,
+    "timeMonth": 1431,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2022-12-19": 27,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 71,
+    "timeDay": 63,
     "timeWeek": 172,
-    "timeMonth": 101,
+    "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 236,
-    "timeWeek": 262,
-    "timeMonth": 248,
+    "timeDay": 183,
+    "timeWeek": 269,
+    "timeMonth": 228,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 285,
-    "timeDay": 393,
-    "timeWeek": 319,
-    "timeMonth": 372,
+    "timeDay": 403,
+    "timeWeek": 317,
+    "timeMonth": 379,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2022-07-08": 498,
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 33,
-    "timeDay": 9,
-    "timeWeek": 41,
+    "timeDay": 11,
+    "timeWeek": 40,
     "timeMonth": 24,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "17.05%",
+    "uptime": "17.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-23": 61,
+      "2022-12-24": 58,
+      "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -497,8 +498,7 @@
       "2021-12-28": 1440,
       "2021-12-27": 1440,
       "2021-12-26": 1440,
-      "2021-12-25": 1440,
-      "2021-12-24": 1440
+      "2021-12-25": 1440
     }
   }
 ]
