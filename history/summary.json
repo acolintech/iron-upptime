@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1811,
-    "timeDay": 1388,
-    "timeWeek": 1421,
-    "timeMonth": 1323,
+    "time": 1810,
+    "timeDay": 1324,
+    "timeWeek": 1467,
+    "timeMonth": 1329,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2022-12-19": 27,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 92,
-    "timeWeek": 79,
-    "timeMonth": 89,
-    "timeYear": 101,
+    "timeDay": 150,
+    "timeWeek": 90,
+    "timeMonth": 92,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 241,
-    "timeWeek": 237,
-    "timeMonth": 200,
+    "timeDay": 122,
+    "timeWeek": 225,
+    "timeMonth": 193,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 286,
-    "timeDay": 254,
-    "timeWeek": 287,
-    "timeMonth": 293,
+    "timeDay": 232,
+    "timeWeek": 263,
+    "timeMonth": 288,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2022-07-08": 498,
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 20,
-    "timeWeek": 18,
-    "timeMonth": 24,
+    "timeDay": 49,
+    "timeWeek": 23,
+    "timeMonth": 25,
     "timeYear": 28,
     "dailyMinutesDown": {}
   },
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "16.26%",
+    "uptime": "16.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 69,
+      "2023-02-04": 64,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -497,8 +498,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   }
 ]
