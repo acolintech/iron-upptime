@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1806,
-    "timeDay": 1720,
-    "timeWeek": 1378,
+    "time": 1807,
+    "timeDay": 1715,
+    "timeWeek": 1424,
     "timeMonth": 1357,
-    "timeYear": 1773,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2022-12-19": 27,
       "2022-12-10": 996,
@@ -36,7 +36,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 170,
+    "timeDay": 90,
     "timeWeek": 101,
     "timeMonth": 89,
     "timeYear": 102,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 105,
-    "timeWeek": 179,
-    "timeMonth": 186,
-    "timeYear": 208,
+    "timeDay": 73,
+    "timeWeek": 155,
+    "timeMonth": 187,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -67,19 +67,17 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 285,
-    "timeDay": 199,
-    "timeWeek": 267,
-    "timeMonth": 277,
+    "timeDay": 217,
+    "timeWeek": 256,
+    "timeMonth": 278,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-02-09": 14,
-      "2022-07-08": 498,
-      "2022-02-10": 17
+      "2022-07-08": 498
     }
   },
   {
@@ -112,7 +110,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 77,
+    "timeDay": 22,
     "timeWeek": 30,
     "timeMonth": 24,
     "timeYear": 28,
@@ -124,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "16.14%",
+    "uptime": "16.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -135,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 1127,
+      "2023-02-10": 71,
+      "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -498,8 +497,7 @@
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
-      "2022-02-11": 1440,
-      "2022-02-10": 1440
+      "2022-02-11": 1440
     }
   }
 ]
