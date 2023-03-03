@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.77%",
-    "time": 1783,
-    "timeDay": 1065,
-    "timeWeek": 1163,
-    "timeMonth": 1330,
-    "timeYear": 1743,
+    "time": 1782,
+    "timeDay": 1676,
+    "timeWeek": 1265,
+    "timeMonth": 1340,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2023-02-23": 25,
       "2022-12-19": 27,
@@ -36,8 +36,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 79,
-    "timeWeek": 75,
+    "timeDay": 81,
+    "timeWeek": 77,
     "timeMonth": 97,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -54,9 +54,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 399,
-    "timeWeek": 230,
-    "timeMonth": 211,
+    "timeDay": 108,
+    "timeWeek": 217,
+    "timeMonth": 206,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2023-02-11": 25
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
-    "time": 284,
-    "timeDay": 414,
-    "timeWeek": 356,
-    "timeMonth": 284,
-    "timeYear": 281,
+    "time": 283,
+    "timeDay": 154,
+    "timeWeek": 317,
+    "timeMonth": 281,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2023-02-14": 24,
       "2022-07-08": 498
@@ -113,8 +113,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 14,
-    "timeWeek": 15,
+    "timeDay": 23,
+    "timeWeek": 17,
     "timeMonth": 24,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -125,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.79%",
+    "uptime": "15.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -136,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-02": 74,
+      "2023-03-03": 185,
+      "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -499,8 +500,7 @@
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
-      "2022-03-04": 1440,
-      "2022-03-03": 1440
+      "2022-03-04": 1440
     }
   }
 ]
