@@ -66,9 +66,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -78,6 +78,7 @@
     "timeMonth": 288,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-05-31": 0,
       "2023-04-03": 21,
       "2023-03-28": 72,
       "2023-03-27": 33,
@@ -138,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 72,
+      "2023-05-31": 452,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
