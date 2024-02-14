@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1360,
-    "timeDay": 1139,
-    "timeWeek": 1173,
-    "timeMonth": 1224,
-    "timeYear": 1299,
+    "time": 1359,
+    "timeDay": 1163,
+    "timeWeek": 1188,
+    "timeMonth": 1225,
+    "timeYear": 1298,
     "dailyMinutesDown": {
       "2023-11-06": 28,
       "2023-07-07": 18,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 85,
+    "timeDay": 70,
     "timeWeek": 93,
     "timeMonth": 84,
-    "timeYear": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2023-09-28": 21,
       "2023-08-17": 19
@@ -53,9 +53,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 224,
-    "timeWeek": 188,
+    "time": 210,
+    "timeDay": 202,
+    "timeWeek": 186,
     "timeMonth": 185,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 306,
-    "timeDay": 289,
-    "timeWeek": 301,
-    "timeMonth": 277,
-    "timeYear": 308,
+    "timeDay": 488,
+    "timeWeek": 311,
+    "timeMonth": 285,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-01-10": 56,
       "2023-12-15": 28,
@@ -86,8 +86,7 @@
       "2023-09-01": 25,
       "2023-04-03": 21,
       "2023-03-28": 72,
-      "2023-03-27": 33,
-      "2023-02-14": 24
+      "2023-03-27": 33
     }
   },
   {
@@ -120,7 +119,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 22,
+    "timeDay": 14,
     "timeWeek": 30,
     "timeMonth": 21,
     "timeYear": 24,
@@ -132,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "11.50%",
+    "uptime": "11.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -143,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 54,
+      "2024-02-14": 54,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -506,8 +506,7 @@
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
-      "2023-02-15": 1440,
-      "2023-02-14": 1440
+      "2023-02-15": 1440
     }
   }
 ]
