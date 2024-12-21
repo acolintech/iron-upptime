@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1348,
-    "timeDay": 1621,
-    "timeWeek": 1812,
-    "timeMonth": 1805,
-    "timeYear": 1396,
+    "time": 1350,
+    "timeDay": 2234,
+    "timeWeek": 1820,
+    "timeMonth": 1802,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2024-08-20": 27
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 105,
-    "timeDay": 97,
-    "timeWeek": 96,
-    "timeMonth": 113,
+    "time": 104,
+    "timeDay": 103,
+    "timeWeek": 97,
+    "timeMonth": 114,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 223,
-    "timeWeek": 179,
-    "timeMonth": 187,
+    "time": 215,
+    "timeDay": 143,
+    "timeWeek": 193,
+    "timeMonth": 189,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -64,17 +64,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 306,
-    "timeDay": 354,
-    "timeWeek": 314,
-    "timeMonth": 303,
+    "timeDay": 254,
+    "timeWeek": 327,
+    "timeMonth": 305,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-12-20": 13,
       "2024-09-10": 16,
       "2024-09-02": 27,
       "2024-08-07": 22,
@@ -112,7 +111,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 13,
+    "timeDay": 20,
     "timeWeek": 21,
     "timeMonth": 30,
     "timeYear": 31,
@@ -137,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-20": 1377,
+      "2024-12-21": 70,
+      "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -500,8 +500,7 @@
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
-      "2023-12-23": 1440,
-      "2023-12-22": 1440
+      "2023-12-23": 1440
     }
   }
 ]
