@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 1398,
-    "timeDay": 1581,
-    "timeWeek": 1903,
-    "timeMonth": 1840,
-    "timeYear": 1463,
+    "time": 1400,
+    "timeDay": 1622,
+    "timeWeek": 1928,
+    "timeMonth": 1838,
+    "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-01-21": 39,
       "2025-01-02": 23,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 163,
-    "timeWeek": 100,
-    "timeMonth": 94,
+    "timeDay": 110,
+    "timeWeek": 103,
+    "timeMonth": 95,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 66,
-    "timeWeek": 123,
-    "timeMonth": 201,
+    "timeDay": 202,
+    "timeWeek": 136,
+    "timeMonth": 200,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 305,
-    "timeDay": 441,
-    "timeWeek": 283,
-    "timeMonth": 308,
+    "timeDay": 381,
+    "timeWeek": 279,
+    "timeMonth": 309,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-09-10": 16,
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 29,
-    "timeDay": 22,
-    "timeWeek": 18,
+    "timeDay": 20,
+    "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 32,
     "dailyMinutesDown": {
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 70,
+      "2025-01-29": 70,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -500,8 +501,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   }
 ]
