@@ -1,7 +1,7 @@
 url: https://rcontrol.com.mx
-status: up
-code: 200
-responseTime: 1583
-lastUpdated: 2025-02-10T23:11:12.524Z
+status: down
+code: 503
+responseTime: 158
+lastUpdated: 2025-02-11T13:35:58.980Z
 startTime: 2021-01-04T21:07:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
