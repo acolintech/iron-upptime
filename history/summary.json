@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1435,
-    "timeDay": 1572,
-    "timeWeek": 1779,
-    "timeMonth": 1698,
-    "timeYear": 1505,
+    "time": 1437,
+    "timeDay": 2108,
+    "timeWeek": 1759,
+    "timeMonth": 1713,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2025-01-29": 26,
       "2025-01-21": 39,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 170,
-    "timeWeek": 107,
-    "timeMonth": 102,
+    "timeDay": 110,
+    "timeWeek": 109,
+    "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 176,
-    "timeWeek": 190,
-    "timeMonth": 141,
-    "timeYear": 216,
+    "timeDay": 539,
+    "timeWeek": 260,
+    "timeMonth": 156,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 308,
-    "timeDay": 296,
-    "timeWeek": 293,
-    "timeMonth": 329,
-    "timeYear": 306,
+    "time": 307,
+    "timeDay": 170,
+    "timeWeek": 303,
+    "timeMonth": 320,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2024-09-10": 16,
       "2024-09-02": 27,
@@ -112,8 +112,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 29,
-    "timeDay": 52,
+    "time": 28,
+    "timeDay": 20,
     "timeWeek": 26,
     "timeMonth": 20,
     "timeYear": 32,
@@ -138,7 +138,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-27": 73,
+      "2025-02-28": 73,
+      "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -501,8 +502,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   }
 ]
