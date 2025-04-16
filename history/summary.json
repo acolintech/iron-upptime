@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1509,
-    "timeDay": 1527,
-    "timeWeek": 1733,
-    "timeMonth": 2000,
+    "time": 1510,
+    "timeDay": 1673,
+    "timeWeek": 1694,
+    "timeMonth": 2001,
     "timeYear": 1581,
     "dailyMinutesDown": {
       "2025-01-29": 26,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 102,
-    "timeDay": 106,
-    "timeWeek": 93,
-    "timeMonth": 128,
+    "time": 103,
+    "timeDay": 312,
+    "timeWeek": 121,
+    "timeMonth": 135,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 34,
-    "timeWeek": 115,
-    "timeMonth": 153,
-    "timeYear": 212,
+    "time": 209,
+    "timeDay": 597,
+    "timeWeek": 175,
+    "timeMonth": 171,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 582,
-    "timeWeek": 356,
-    "timeMonth": 315,
-    "timeYear": 307,
+    "timeDay": 470,
+    "timeWeek": 393,
+    "timeMonth": 314,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2024-09-10": 16,
       "2024-09-02": 27,
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 12,
-    "timeWeek": 16,
-    "timeMonth": 47,
+    "timeDay": 173,
+    "timeWeek": 38,
+    "timeMonth": 52,
     "timeYear": 35,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "8.63%",
+    "uptime": "8.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 80,
+      "2025-04-16": 79,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -500,8 +501,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
