@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1515,
-    "timeDay": 1646,
-    "timeWeek": 1734,
-    "timeMonth": 1867,
-    "timeYear": 1587,
+    "time": 1518,
+    "timeDay": 2292,
+    "timeWeek": 1820,
+    "timeMonth": 1875,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2025-01-29": 26,
       "2025-01-21": 39,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 90,
-    "timeWeek": 125,
-    "timeMonth": 129,
+    "timeDay": 86,
+    "timeWeek": 126,
+    "timeMonth": 121,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 66,
-    "timeWeek": 166,
-    "timeMonth": 159,
+    "time": 208,
+    "timeDay": 40,
+    "timeWeek": 146,
+    "timeMonth": 148,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 306,
-    "timeDay": 389,
-    "timeWeek": 388,
-    "timeMonth": 322,
+    "timeDay": 112,
+    "timeWeek": 351,
+    "timeMonth": 314,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2024-09-10": 16,
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 15,
-    "timeWeek": 38,
-    "timeMonth": 46,
+    "timeDay": 20,
+    "timeWeek": 39,
+    "timeMonth": 40,
     "timeYear": 34,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 84,
+      "2025-04-21": 82,
+      "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
@@ -500,8 +501,7 @@
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
-      "2024-04-22": 1440,
-      "2024-04-21": 1440
+      "2024-04-22": 1440
     }
   }
 ]
