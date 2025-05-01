@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1528,
-    "timeDay": 2272,
-    "timeWeek": 1872,
-    "timeMonth": 1893,
-    "timeYear": 1602,
+    "time": 1530,
+    "timeDay": 1702,
+    "timeWeek": 1878,
+    "timeMonth": 1837,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-01-29": 26,
       "2025-01-21": 39,
@@ -34,13 +34,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 106,
-    "timeWeek": 93,
-    "timeMonth": 107,
-    "timeYear": 106,
-    "dailyMinutesDown": {
-      "2024-05-01": 37
-    }
+    "timeDay": 72,
+    "timeWeek": 88,
+    "timeMonth": 99,
+    "timeYear": 105,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -53,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 44,
-    "timeWeek": 109,
-    "timeMonth": 142,
-    "timeYear": 211,
+    "time": 206,
+    "timeDay": 50,
+    "timeWeek": 87,
+    "timeMonth": 138,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -72,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 114,
-    "timeWeek": 283,
-    "timeMonth": 311,
-    "timeYear": 308,
+    "timeDay": 477,
+    "timeWeek": 302,
+    "timeMonth": 316,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-09-10": 16,
       "2024-09-02": 27,
@@ -112,13 +110,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 33,
-    "timeWeek": 18,
-    "timeMonth": 28,
+    "timeDay": 7,
+    "timeWeek": 16,
+    "timeMonth": 23,
     "timeYear": 33,
-    "dailyMinutesDown": {
-      "2024-05-01": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -129,7 +125,7 @@
     "uptime": "8.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -137,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 80,
+      "2025-05-01": 87,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -500,8 +497,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
