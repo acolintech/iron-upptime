@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1595,
-    "timeDay": 2727,
-    "timeWeek": 2259,
-    "timeMonth": 2046,
-    "timeYear": 1677,
+    "time": 1597,
+    "timeDay": 2747,
+    "timeWeek": 2333,
+    "timeMonth": 2062,
+    "timeYear": 1681,
     "dailyMinutesDown": {
       "2025-05-08": 16,
       "2025-01-29": 26,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 93,
-    "timeWeek": 97,
-    "timeMonth": 101,
+    "timeDay": 98,
+    "timeWeek": 99,
+    "timeMonth": 100,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 81,
-    "timeWeek": 226,
+    "timeDay": 45,
+    "timeWeek": 221,
     "timeMonth": 201,
-    "timeYear": 208,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 311,
-    "timeDay": 101,
-    "timeWeek": 438,
-    "timeMonth": 354,
+    "time": 310,
+    "timeDay": 109,
+    "timeWeek": 379,
+    "timeMonth": 355,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2024-09-10": 16,
@@ -112,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 32,
     "timeDay": 20,
-    "timeWeek": 18,
+    "timeWeek": 19,
     "timeMonth": 24,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "8.35%",
+    "uptime": "8.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 85,
+      "2025-06-12": 83,
+      "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -497,8 +498,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   }
 ]
