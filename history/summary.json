@@ -6,15 +6,15 @@
     "slug": "iron",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "98.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.92%",
-    "time": 1740,
-    "timeDay": 3353,
-    "timeWeek": 3686,
-    "timeMonth": 3383,
-    "timeYear": 1864,
+    "time": 1744,
+    "timeDay": 3124,
+    "timeWeek": 3717,
+    "timeMonth": 3395,
+    "timeYear": 1868,
     "dailyMinutesDown": {
       "2025-07-14": 24,
       "2025-07-12": 79,
@@ -39,8 +39,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 85,
-    "timeWeek": 89,
+    "timeDay": 91,
+    "timeWeek": 90,
     "timeMonth": 119,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 392,
-    "timeWeek": 244,
-    "timeMonth": 187,
+    "timeDay": 198,
+    "timeWeek": 259,
+    "timeMonth": 180,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -78,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 309,
-    "timeDay": 401,
-    "timeWeek": 358,
-    "timeMonth": 294,
-    "timeYear": 315,
+    "timeDay": 334,
+    "timeWeek": 335,
+    "timeMonth": 299,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-09-10": 16,
       "2024-09-02": 27,
@@ -119,7 +119,7 @@
     "uptimeYear": "100.00%",
     "time": 32,
     "timeDay": 16,
-    "timeWeek": 14,
+    "timeWeek": 15,
     "timeMonth": 19,
     "timeYear": 29,
     "dailyMinutesDown": {}
@@ -141,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 101,
+      "2025-07-16": 98,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -504,8 +505,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   }
 ]
