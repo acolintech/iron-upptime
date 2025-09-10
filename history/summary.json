@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.68%",
-    "time": 1928,
-    "timeDay": 2111,
-    "timeWeek": 2231,
-    "timeMonth": 2535,
+    "time": 1930,
+    "timeDay": 1927,
+    "timeWeek": 2128,
+    "timeMonth": 2502,
     "timeYear": 2074,
     "dailyMinutesDown": {
       "2025-08-17": 1239,
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 105,
-    "timeDay": 102,
-    "timeWeek": 97,
+    "timeDay": 86,
+    "timeWeek": 98,
     "timeMonth": 97,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 225,
-    "timeWeek": 202,
-    "timeMonth": 187,
+    "timeDay": 188,
+    "timeWeek": 175,
+    "timeMonth": 192,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -82,13 +82,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 92,
-    "timeWeek": 291,
-    "timeMonth": 325,
+    "timeDay": 360,
+    "timeWeek": 296,
+    "timeMonth": 322,
     "timeYear": 319,
-    "dailyMinutesDown": {
-      "2024-09-10": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -120,7 +118,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 22,
+    "timeDay": 16,
     "timeWeek": 18,
     "timeMonth": 19,
     "timeYear": 26,
@@ -143,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 77,
+      "2025-09-10": 75,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -506,8 +505,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   }
 ]
