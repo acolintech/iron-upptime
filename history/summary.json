@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.68%",
-    "time": 1933,
-    "timeDay": 2512,
-    "timeWeek": 2201,
-    "timeMonth": 2489,
+    "time": 1935,
+    "timeDay": 2078,
+    "timeWeek": 2052,
+    "timeMonth": 2458,
     "timeYear": 2077,
     "dailyMinutesDown": {
       "2025-08-17": 1239,
@@ -37,14 +37,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 106,
-    "timeDay": 228,
-    "timeWeek": 143,
-    "timeMonth": 110,
+    "timeDay": 78,
+    "timeWeek": 133,
+    "timeMonth": 109,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2025-09-10": 21,
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 302,
-    "timeWeek": 164,
-    "timeMonth": 195,
+    "timeDay": 190,
+    "timeWeek": 167,
+    "timeMonth": 194,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 127,
-    "timeWeek": 271,
+    "timeDay": 307,
+    "timeWeek": 269,
     "timeMonth": 312,
-    "timeYear": 319,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 21,
-    "timeWeek": 19,
+    "timeDay": 20,
+    "timeWeek": 16,
     "timeMonth": 20,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -142,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 77,
+      "2025-09-12": 74,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -505,8 +506,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   }
 ]
