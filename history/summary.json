@@ -4,19 +4,20 @@
     "url": "https://rcontrol.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/rcontrol.com.mx.ico",
     "slug": "iron",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.66%",
-    "time": 1896,
-    "timeDay": 16867,
-    "timeWeek": 2943,
-    "timeMonth": 2493,
-    "timeYear": 2153,
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.64%",
+    "time": 1909,
+    "timeDay": 12905,
+    "timeWeek": 3405,
+    "timeMonth": 2662,
+    "timeYear": 2170,
     "dailyMinutesDown": {
-      "2025-10-05": 21,
+      "2025-10-06": 76,
+      "2025-10-05": 41,
       "2025-09-29": 22,
       "2025-09-28": 25,
       "2025-08-17": 1239,
@@ -145,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 1420,
+      "2025-10-06": 77,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -508,8 +510,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   }
 ]
