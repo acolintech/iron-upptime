@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.64%",
-    "time": 1979,
-    "timeDay": 2605,
-    "timeWeek": 2098,
-    "timeMonth": 2990,
-    "timeYear": 2266,
+    "time": 1981,
+    "timeDay": 2390,
+    "timeWeek": 2186,
+    "timeMonth": 3004,
+    "timeYear": 2269,
     "dailyMinutesDown": {
       "2025-10-08": 18,
       "2025-10-06": 76,
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 107,
-    "timeDay": 135,
-    "timeWeek": 224,
-    "timeMonth": 122,
+    "timeDay": 86,
+    "timeWeek": 227,
+    "timeMonth": 123,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-09-10": 21,
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 44,
-    "timeWeek": 148,
-    "timeMonth": 160,
+    "timeDay": 88,
+    "timeWeek": 153,
+    "timeMonth": 152,
     "timeYear": 183,
     "dailyMinutesDown": {}
   },
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 447,
-    "timeWeek": 323,
-    "timeMonth": 312,
-    "timeYear": 317,
+    "time": 314,
+    "timeDay": 107,
+    "timeWeek": 277,
+    "timeMonth": 302,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -124,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 74,
-    "timeWeek": 39,
-    "timeMonth": 22,
+    "timeDay": 21,
+    "timeWeek": 41,
+    "timeMonth": 23,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -147,7 +147,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 85,
+      "2025-11-02": 85,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -510,8 +511,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
