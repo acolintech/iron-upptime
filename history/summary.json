@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.61%",
-    "time": 2110,
-    "timeDay": 2678,
-    "timeWeek": 4494,
-    "timeMonth": 3199,
-    "timeYear": 2386,
+    "time": 2113,
+    "timeDay": 2671,
+    "timeWeek": 4710,
+    "timeMonth": 3211,
+    "timeYear": 2389,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-11-14": 55,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 106,
-    "timeDay": 109,
+    "timeDay": 88,
     "timeWeek": 89,
-    "timeMonth": 120,
+    "timeMonth": 118,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-09-10": 21,
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 247,
-    "timeWeek": 187,
-    "timeMonth": 186,
+    "timeDay": 101,
+    "timeWeek": 173,
+    "timeMonth": 180,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -94,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 157,
-    "timeWeek": 303,
-    "timeMonth": 297,
-    "timeYear": 315,
+    "timeDay": 113,
+    "timeWeek": 277,
+    "timeMonth": 292,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 22,
-    "timeWeek": 19,
-    "timeMonth": 23,
+    "timeDay": 32,
+    "timeWeek": 21,
+    "timeMonth": 24,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 81,
+      "2025-11-22": 79,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -516,8 +517,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   }
 ]
