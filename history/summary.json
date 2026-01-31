@@ -10,11 +10,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.60%",
-    "time": 2260,
-    "timeDay": 3955,
-    "timeWeek": 2569,
-    "timeMonth": 2530,
-    "timeYear": 2515,
+    "time": 2262,
+    "timeDay": 2297,
+    "timeWeek": 2562,
+    "timeMonth": 2519,
+    "timeYear": 2516,
     "dailyMinutesDown": {
       "2026-01-25": 26,
       "2025-12-26": 66,
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 124,
-    "timeDay": 125,
-    "timeWeek": 187,
-    "timeMonth": 172,
+    "timeDay": 147,
+    "timeWeek": 130,
+    "timeMonth": 174,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-01-04": 32,
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 118,
-    "timeWeek": 141,
+    "timeDay": 71,
+    "timeWeek": 125,
     "timeMonth": 192,
-    "timeYear": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 88,
-    "timeWeek": 294,
-    "timeMonth": 269,
-    "timeYear": 307,
+    "time": 308,
+    "timeDay": 417,
+    "timeWeek": 307,
+    "timeMonth": 280,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -131,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 49,
-    "timeWeek": 71,
+    "timeDay": 45,
+    "timeWeek": 53,
     "timeMonth": 95,
     "timeYear": 44,
     "dailyMinutesDown": {}
@@ -154,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 114,
+      "2026-01-31": 110,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -517,8 +518,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
