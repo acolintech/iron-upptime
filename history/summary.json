@@ -11,10 +11,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.57%",
     "time": 2295,
-    "timeDay": 1926,
-    "timeWeek": 2042,
-    "timeMonth": 2131,
-    "timeYear": 2536,
+    "timeDay": 2017,
+    "timeWeek": 2056,
+    "timeMonth": 2117,
+    "timeYear": 2538,
     "dailyMinutesDown": {
       "2026-02-25": 43,
       "2026-02-20": 37,
@@ -55,10 +55,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 126,
-    "timeDay": 851,
-    "timeWeek": 229,
-    "timeMonth": 138,
+    "time": 127,
+    "timeDay": 257,
+    "timeWeek": 249,
+    "timeMonth": 144,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2026-01-04": 32,
@@ -79,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 164,
-    "timeWeek": 147,
-    "timeMonth": 151,
-    "timeYear": 184,
+    "time": 187,
+    "timeDay": 276,
+    "timeWeek": 156,
+    "timeMonth": 157,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 374,
-    "timeWeek": 260,
-    "timeMonth": 284,
+    "timeDay": 245,
+    "timeWeek": 282,
+    "timeMonth": 289,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 224,
-    "timeWeek": 54,
-    "timeMonth": 41,
+    "timeDay": 170,
+    "timeWeek": 76,
+    "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 714,
+      "2026-02-26": 116,
+      "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -520,8 +521,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   }
 ]
