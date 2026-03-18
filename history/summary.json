@@ -73,9 +73,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -85,6 +85,7 @@
     "timeMonth": 138,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2026-03-18": 0,
       "2026-03-01": 36
     }
   },
@@ -150,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "7.21%",
+    "uptime": "7.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -161,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 123,
+      "2026-03-18": 612,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
