@@ -9,14 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.60%",
-    "time": 2098,
-    "timeDay": 214,
-    "timeWeek": 382,
-    "timeMonth": 438,
-    "timeYear": 2076,
+    "uptimeYear": "99.61%",
+    "time": 2094,
+    "timeDay": 271,
+    "timeWeek": 394,
+    "timeMonth": 442,
+    "timeYear": 2058,
     "dailyMinutesDown": {
-      "2025-07-14": 24,
       "2025-07-19": 21,
       "2025-07-28": 39,
       "2025-08-04": 28,
@@ -52,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 126,
-    "timeDay": 52,
-    "timeWeek": 68,
-    "timeMonth": 77,
+    "time": 125,
+    "timeDay": 77,
+    "timeWeek": 71,
+    "timeMonth": 75,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-08-05": 29,
@@ -76,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 38,
-    "timeWeek": 100,
-    "timeMonth": 149,
-    "timeYear": 178,
+    "timeDay": 78,
+    "timeWeek": 98,
+    "timeMonth": 139,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2026-03-01": 36,
       "2026-03-18": 59
@@ -96,10 +95,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 302,
-    "timeDay": 295,
-    "timeWeek": 232,
-    "timeMonth": 274,
+    "time": 301,
+    "timeDay": 300,
+    "timeWeek": 244,
+    "timeMonth": 266,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2026-03-10": 36
@@ -135,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 21,
-    "timeWeek": 31,
+    "timeDay": 31,
+    "timeWeek": 33,
     "timeMonth": 35,
-    "timeYear": 45,
+    "timeYear": 46,
     "dailyMinutesDown": {}
   },
   {
@@ -147,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "6.82%",
+    "uptime": "6.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -158,7 +157,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 153,
+      "2026-07-14": 140,
+      "2026-07-13": 1440,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -520,9 +521,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-15": 1440
     }
   }
 ]
