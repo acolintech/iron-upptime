@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.62%",
-    "time": 2082,
-    "timeDay": 705,
-    "timeWeek": 530,
-    "timeMonth": 471,
-    "timeYear": 2014,
+    "time": 2080,
+    "timeDay": 286,
+    "timeWeek": 532,
+    "timeMonth": 470,
+    "timeYear": 2007,
     "dailyMinutesDown": {
       "2025-07-28": 39,
       "2025-08-04": 28,
@@ -50,9 +50,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 125,
-    "timeDay": 68,
-    "timeWeek": 77,
+    "time": 124,
+    "timeDay": 59,
+    "timeWeek": 74,
     "timeMonth": 75,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 173,
-    "timeDay": 40,
-    "timeWeek": 117,
-    "timeMonth": 135,
-    "timeYear": 174,
+    "timeDay": 37,
+    "timeWeek": 111,
+    "timeMonth": 133,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2026-03-01": 36,
       "2026-03-18": 59
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 80,
-    "timeWeek": 158,
-    "timeMonth": 235,
+    "timeDay": 330,
+    "timeWeek": 162,
+    "timeMonth": 231,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2026-03-10": 36
@@ -132,9 +132,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 42,
-    "timeWeek": 39,
+    "time": 42,
+    "timeDay": 21,
+    "timeWeek": 38,
     "timeMonth": 37,
     "timeYear": 46,
     "dailyMinutesDown": {}
@@ -156,7 +156,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 166,
+      "2026-07-21": 149,
+      "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
@@ -519,8 +520,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   }
 ]
