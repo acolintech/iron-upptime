@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 2061,
-    "timeDay": 704,
-    "timeWeek": 575,
-    "timeMonth": 496,
-    "timeYear": 1951,
+    "time": 2060,
+    "timeDay": 784,
+    "timeWeek": 605,
+    "timeMonth": 499,
+    "timeYear": 1946,
     "dailyMinutesDown": {
       "2025-08-04": 28,
       "2025-08-17": 1239,
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 123,
-    "timeDay": 73,
-    "timeWeek": 88,
+    "timeDay": 83,
+    "timeWeek": 86,
     "timeMonth": 75,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 174,
-    "timeDay": 39,
-    "timeWeek": 165,
+    "time": 173,
+    "timeDay": 87,
+    "timeWeek": 146,
     "timeMonth": 116,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2026-03-01": 36,
       "2026-03-18": 59
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 296,
-    "timeDay": 95,
-    "timeWeek": 241,
+    "time": 295,
+    "timeDay": 58,
+    "timeWeek": 197,
     "timeMonth": 211,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2026-03-10": 36
     }
@@ -132,8 +132,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 42,
-    "timeWeek": 44,
+    "timeDay": 52,
+    "timeWeek": 46,
     "timeMonth": 38,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -155,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 157,
+      "2026-08-01": 155,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -518,8 +519,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   }
 ]
