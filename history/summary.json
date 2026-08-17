@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2025,
-    "timeDay": 302,
-    "timeWeek": 442,
+    "time": 2022,
+    "timeDay": 298,
+    "timeWeek": 430,
     "timeMonth": 556,
-    "timeYear": 1840,
+    "timeYear": 1832,
     "dailyMinutesDown": {
-      "2025-08-17": 1239,
       "2025-09-28": 25,
       "2025-09-29": 22,
       "2025-10-05": 41,
@@ -49,8 +48,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 71,
-    "timeWeek": 116,
+    "timeDay": 80,
+    "timeWeek": 115,
     "timeMonth": 91,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 175,
-    "timeDay": 73,
-    "timeWeek": 242,
-    "timeMonth": 168,
-    "timeYear": 173,
+    "time": 176,
+    "timeDay": 672,
+    "timeWeek": 305,
+    "timeMonth": 188,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2026-03-01": 36,
       "2026-03-18": 59
@@ -93,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 319,
-    "timeWeek": 296,
-    "timeMonth": 217,
+    "timeDay": 236,
+    "timeWeek": 285,
+    "timeMonth": 214,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-03-10": 36
@@ -131,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 28,
+    "timeDay": 41,
     "timeWeek": 36,
-    "timeMonth": 40,
+    "timeMonth": 41,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -154,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 69,
+      "2026-08-17": 67,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -517,8 +517,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   }
 ]
