@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2021,
-    "timeDay": 518,
-    "timeWeek": 474,
-    "timeMonth": 554,
-    "timeYear": 1820,
+    "time": 2017,
+    "timeDay": 235,
+    "timeWeek": 439,
+    "timeMonth": 539,
+    "timeYear": 1815,
     "dailyMinutesDown": {
       "2025-09-28": 25,
       "2025-09-29": 22,
@@ -44,12 +44,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 153,
-    "timeWeek": 125,
+    "timeDay": 56,
+    "timeWeek": 84,
     "timeMonth": 94,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 176,
-    "timeDay": 381,
-    "timeWeek": 353,
-    "timeMonth": 193,
+    "timeDay": 38,
+    "timeWeek": 240,
+    "timeMonth": 191,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-03-01": 36,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 256,
-    "timeWeek": 273,
-    "timeMonth": 219,
-    "timeYear": 278,
+    "timeDay": 317,
+    "timeWeek": 266,
+    "timeMonth": 227,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2026-03-10": 36
     }
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 71,
-    "timeWeek": 43,
-    "timeMonth": 42,
+    "timeDay": 17,
+    "timeWeek": 38,
+    "timeMonth": 41,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 64,
+      "2026-08-19": 65,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -516,8 +517,7 @@
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
-      "2025-08-20": 1440,
-      "2025-08-19": 1440
+      "2025-08-20": 1440
     }
   }
 ]
