@@ -10,10 +10,10 @@
     "uptimeWeek": "97.85%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.84%",
-    "time": 1999,
-    "timeDay": 190,
-    "timeWeek": 7046,
-    "timeMonth": 2328,
+    "time": 1997,
+    "timeDay": 381,
+    "timeWeek": 7059,
+    "timeMonth": 2314,
     "timeYear": 1755,
     "dailyMinutesDown": {
       "2025-10-05": 41,
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 55,
-    "timeWeek": 73,
-    "timeMonth": 86,
+    "timeDay": 73,
+    "timeWeek": 74,
+    "timeMonth": 85,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2026-01-04": 32,
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 185,
-    "timeDay": 35,
-    "timeWeek": 173,
-    "timeMonth": 256,
+    "timeDay": 203,
+    "timeWeek": 192,
+    "timeMonth": 232,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-03-01": 36,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 343,
-    "timeWeek": 212,
+    "timeDay": 264,
+    "timeWeek": 196,
     "timeMonth": 256,
-    "timeYear": 275,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2026-03-10": 36
     }
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 18,
-    "timeWeek": 30,
-    "timeMonth": 40,
+    "timeDay": 34,
+    "timeWeek": 33,
+    "timeMonth": 39,
     "timeYear": 50,
     "dailyMinutesDown": {}
   },
@@ -142,7 +142,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "6.57%",
+    "uptime": "6.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-03": 228,
+      "2026-10-04": 259,
+      "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
@@ -516,8 +517,7 @@
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
-      "2025-10-05": 1440,
-      "2025-10-04": 1440
+      "2025-10-05": 1440
     }
   }
 ]
