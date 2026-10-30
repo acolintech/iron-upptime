@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.86%",
-    "time": 1944,
-    "timeDay": 764,
-    "timeWeek": 456,
-    "timeMonth": 2397,
-    "timeYear": 1554,
+    "time": 1941,
+    "timeDay": 502,
+    "timeWeek": 475,
+    "timeMonth": 2396,
+    "timeYear": 1550,
     "dailyMinutesDown": {
       "2025-11-04": 26,
       "2025-11-08": 26,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 120,
-    "timeDay": 66,
-    "timeWeek": 76,
-    "timeMonth": 89,
+    "timeDay": 124,
+    "timeWeek": 82,
+    "timeMonth": 91,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-01-04": 32,
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 184,
-    "timeDay": 408,
-    "timeWeek": 198,
+    "timeDay": 217,
+    "timeWeek": 196,
     "timeMonth": 208,
-    "timeYear": 182,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2026-03-01": 36,
       "2026-03-18": 59
@@ -89,10 +89,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
     "time": 281,
-    "timeDay": 346,
-    "timeWeek": 278,
-    "timeMonth": 215,
-    "timeYear": 269,
+    "timeDay": 308,
+    "timeWeek": 286,
+    "timeMonth": 222,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-03-10": 36,
       "2026-10-10": 120,
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 25,
-    "timeWeek": 30,
-    "timeMonth": 43,
+    "timeDay": 65,
+    "timeWeek": 35,
+    "timeMonth": 44,
     "timeYear": 52,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 263,
+      "2026-10-30": 263,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -515,8 +516,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   }
 ]
